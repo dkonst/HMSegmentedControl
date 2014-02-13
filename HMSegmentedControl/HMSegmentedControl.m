@@ -148,7 +148,7 @@
     self.selectionIndicatorStripLayer = [CALayer layer];
     
     self.selectionIndicatorBoxLayer = [CALayer layer];
-    self.selectionIndicatorBoxLayer.opacity = 0.2;
+    //self.selectionIndicatorBoxLayer.opacity = 0.2;
     self.selectionIndicatorBoxLayer.borderWidth = 1.0f;
     
     self.contentMode = UIViewContentModeRedraw;
